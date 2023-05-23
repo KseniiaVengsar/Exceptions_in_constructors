@@ -26,7 +26,7 @@ int main() {
         std::cout << std::endl;
     }
     catch (const std::exception& exep) {
-        std::cout << "Èñêëş÷åíèå: " << exep.what() << std::endl;
+        std::cout << "Ğ˜ÑĞºĞ»ÑÑ‡ĞµĞ½Ğ¸Ğµ: " << exep.what() << std::endl;
     }
 
     try {
@@ -36,7 +36,7 @@ int main() {
         std::cout << std::endl;
     }
     catch (const std::exception& exep) {
-        std::cout << "Èñêëş÷åíèå: " << exep.what() << std::endl;
+        std::cout << "Ğ˜ÑĞºĞ»ÑÑ‡ĞµĞ½Ğ¸Ğµ: " << exep.what() << std::endl;
     }
     try {
         Isosceles_triangle* isosceles_triangle =
@@ -46,7 +46,7 @@ int main() {
         std::cout << std::endl;
     }
     catch (const std::exception& exep) {
-        std::cout << "Èñêëş÷åíèå: " << exep.what() << std::endl;
+        std::cout << "Ğ˜ÑĞºĞ»ÑÑ‡ĞµĞ½Ğ¸Ğµ: " << exep.what() << std::endl;
     }
 
     try {
@@ -56,7 +56,7 @@ int main() {
         std::cout << std::endl;
     }
     catch (const std::exception& exep) {
-        std::cout << "Èñêëş÷åíèå: " << exep.what() << std::endl;
+        std::cout << "Ğ˜ÑĞºĞ»ÑÑ‡ĞµĞ½Ğ¸Ğµ: " << exep.what() << std::endl;
     }
 
     try {
@@ -66,7 +66,7 @@ int main() {
         std::cout << std::endl;
     }
     catch (const std::exception& exep) {
-        std::cout << "Èñêëş÷åíèå: " << exep.what() << std::endl;
+        std::cout << "Ğ˜ÑĞºĞ»ÑÑ‡ĞµĞ½Ğ¸Ğµ: " << exep.what() << std::endl;
     }
 
     try {
@@ -76,7 +76,7 @@ int main() {
         std::cout << std::endl;
     }
     catch (const std::exception& exep) {
-        std::cout << "Èñêëş÷åíèå: " << exep.what() << std::endl;
+        std::cout << "Ğ˜ÑĞºĞ»ÑÑ‡ĞµĞ½Ğ¸Ğµ: " << exep.what() << std::endl;
     }
     try {
         Square* square = new Square(1, 2);
@@ -85,7 +85,7 @@ int main() {
         std::cout << std::endl;
     }
     catch (const std::exception& exep) {
-        std::cout << "Èñêëş÷åíèå: " << exep.what() << std::endl;
+        std::cout << "Ğ˜ÑĞºĞ»ÑÑ‡ĞµĞ½Ğ¸Ğµ: " << exep.what() << std::endl;
     }
 
     try {
@@ -95,7 +95,7 @@ int main() {
         std::cout << std::endl;
     }
     catch (const std::exception& exep) {
-        std::cout << "Èñêëş÷åíèå: " << exep.what() << std::endl;
+        std::cout << "Ğ˜ÑĞºĞ»ÑÑ‡ĞµĞ½Ğ¸Ğµ: " << exep.what() << std::endl;
     }
 
     try {
@@ -105,7 +105,7 @@ int main() {
         std::cout << std::endl;
     }
     catch (const std::exception& exep) {
-        std::cout << "Èñêëş÷åíèå: " << exep.what() << std::endl;
+        std::cout << "Ğ˜ÑĞºĞ»ÑÑ‡ĞµĞ½Ğ¸Ğµ: " << exep.what() << std::endl;
     }
     return 0;
 }
